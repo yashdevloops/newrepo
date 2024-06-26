@@ -4425,6 +4425,8 @@ fieldset:disabled .btn {
 }
 
 .navbar-nav {
+    border: 0;
+    background: rgb(50, 74, 94);
     --bs-nav-link-padding-x: 0;
     --bs-nav-link-padding-y: 0.5rem;
     --bs-nav-link-color: var(--bs-navbar-color);
