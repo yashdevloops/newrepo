@@ -4373,7 +4373,7 @@ fieldset:disabled .btn {
     --bs-navbar-padding-x: 0;
     --bs-navbar-padding-y: 0.5rem;
     --bs-navbar-color: #677788;
-    --bs-navbar-hover-color: #377dff;
+    --bs-navbar-hover-color: #ff0080;
     --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
     --bs-navbar-active-color: #677788;
     --bs-navbar-brand-padding-y: 0.3125rem;
@@ -23957,7 +23957,7 @@ label.form-control {
 }
 
 .navbar .nav-item:hover>.nav-link {
-    color: #1366ff
+    color: #ff0080
 }
 
 .navbar .dropdown-menu {
