@@ -3481,7 +3481,7 @@ fieldset:disabled .btn {
 
 .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: rgb(255, 0, 128);
+    --bs-btn-bg: #ff0080;
     --bs-btn-border-color: rgb(255, 0, 128);
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: rgb(255, 0, 128);
@@ -3616,19 +3616,19 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-primary {
-    --bs-btn-color: #377dff;
-    --bs-btn-border-color: #377dff;
+    --bs-btn-color: #ff0080;
+    --bs-btn-border-color: #ff0080;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #377dff;
-    --bs-btn-hover-border-color: #377dff;
+    --bs-btn-hover-bg: #ff0080;
+    --bs-btn-hover-border-color: #ff0080;
     --bs-btn-focus-shadow-rgb: 55, 125, 255;
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #377dff;
-    --bs-btn-active-border-color: #377dff;
+    --bs-btn-active-bg: #ff0080;
+    --bs-btn-active-border-color: #ff0080;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-    --bs-btn-disabled-color: #377dff;
+    --bs-btn-disabled-color: #ff0080;
     --bs-btn-disabled-bg: transparent;
-    --bs-btn-disabled-border-color: #377dff;
+    --bs-btn-disabled-border-color: #ff0080;
     --bs-gradient: none
 }
 
@@ -4373,7 +4373,7 @@ fieldset:disabled .btn {
     --bs-navbar-padding-x: 0;
     --bs-navbar-padding-y: 0.5rem;
     --bs-navbar-color: #677788;
-    --bs-navbar-hover-color: #377dff;
+    --bs-navbar-hover-color: #ff0080;
     --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
     --bs-navbar-active-color: #677788;
     --bs-navbar-brand-padding-y: 0.3125rem;
@@ -22861,7 +22861,7 @@ label.form-control {
 .go-to:focus:hover,
 .go-to:hover {
     color: #fff;
-    background-color: #377dff;
+    background-color: #ff0080;
     opacity: 1
 }
 
@@ -23957,7 +23957,7 @@ label.form-control {
 }
 
 .navbar .nav-item:hover>.nav-link {
-    color: #1366ff
+    color: #ff0080
 }
 
 .navbar .dropdown-menu {
